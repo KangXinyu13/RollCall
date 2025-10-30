@@ -1,2 +1,2 @@
 3.3.4
-https://ghproxy.net/https://github.com/KangXinyu13/RollCall/releases/download/Release/3.3.3-release-update.zip
+https://ghproxy.net/https://ghproxy.net/https://github.com/KangXinyu13/RollCall/releases/download/Release/3.3.3-release-update.zip
